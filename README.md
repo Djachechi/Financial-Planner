@@ -2,7 +2,7 @@
 
 ![Planner ](https://github.com/Djachechi/Financial-Planning/blob/main/Images/financial-planner.png)
 
-Created two financial analysis tools.
+## Created two financial analysis tools.
 
 The first tool - A peronal finance planner that will allow users to visualize their savings composed by investments in shares and cryptocurrencies to assess if they have enough money as an emergency fund.
 
